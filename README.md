@@ -69,22 +69,11 @@ Seeing it show up on my phone in real-time was the best part of the whole projec
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #include <WiFi.h>
 #include <HTTPClient.h>
 
 const char* ssid = "Dreamk2";          
-const char* password = "18-slate-4937";  
+const char* password = "xx xxxxx xxxx";  
 
 String phoneNumber = "+19173651310";   
 String apiKey = "5038236";            
